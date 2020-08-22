@@ -3,6 +3,9 @@ Name: 			theme.css
 Written by: 	Okler Themes - (http://www.okler.net)
 Theme Version:	8.0.0
 */
+.op0{
+	opacity: 0;
+}
 html {
 	direction: ltr;
 	overflow-x: hidden;
